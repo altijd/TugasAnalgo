@@ -97,6 +97,6 @@ int main(){
 
     print_sorted(x,n);
 
-    cout<<"\n\nRuntime: "<<duration.count()<<" microseconds"<<endl;
+    cout<<"\n\nRuntime: "<<duration.count()<<" nanosecond(s)"<<endl;
     return 0;
 }
